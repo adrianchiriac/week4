@@ -1,0 +1,7 @@
+F:\.Net\Repos\week04\HumanStudentAndWorker\HumanStudentAndWorker\bin\Debug\HumanStudentAndWorker.exe.config
+F:\.Net\Repos\week04\HumanStudentAndWorker\HumanStudentAndWorker\bin\Debug\HumanStudentAndWorker.exe
+F:\.Net\Repos\week04\HumanStudentAndWorker\HumanStudentAndWorker\bin\Debug\HumanStudentAndWorker.pdb
+F:\.Net\Repos\week04\HumanStudentAndWorker\HumanStudentAndWorker\obj\Debug\HumanStudentAndWorker.csprojAssemblyReference.cache
+F:\.Net\Repos\week04\HumanStudentAndWorker\HumanStudentAndWorker\obj\Debug\HumanStudentAndWorker.csproj.CoreCompileInputs.cache
+F:\.Net\Repos\week04\HumanStudentAndWorker\HumanStudentAndWorker\obj\Debug\HumanStudentAndWorker.exe
+F:\.Net\Repos\week04\HumanStudentAndWorker\HumanStudentAndWorker\obj\Debug\HumanStudentAndWorker.pdb
